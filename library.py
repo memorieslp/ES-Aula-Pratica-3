@@ -17,6 +17,7 @@ def read_imput():
         
 def main():
     Book = read_imput()
+    print("easy")
     
 if __name__ == '__main__':
     main()
